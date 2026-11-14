@@ -7,28 +7,17 @@ namespace Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            int a = 20;
+            #region Questiom 1
 
-          //  string b = "khaled";
-           // Console.WriteLine($"a:{a},b:{b}");
-           //print();
-            /// <returns></returns>
-            static int print(int x, int y)
-            {
-                Console.WriteLine("khaled magdy");
-                return 10;
-            }
-            #region MyRegion
-
-
+            Console.WriteLine("khaled magdy");
+            Console.WriteLine("khaled magdy");
+            Console.WriteLine("khaled magdy");
+            Console.WriteLine("khaled magdy");
+            Console.WriteLine("khaled magdy");
+            Console.WriteLine("khaled magdy");
             #endregion
 
         }
     }
 }
 
-//one line coment=
-#region MyRegion
-//khdu jsai hdiwiw ;
-#endregion
